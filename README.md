@@ -1,4 +1,4 @@
-# 👋 Ola, eu sou o Iago de Assis
+# 👋 Olá, eu sou o Iago de Assis
 ### _Minhas estatísticas_
 ![IagoACAssis Status](https://github-readme-stats.vercel.app/api?username=IagoACAssis&show_icons=true)[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=IagoACAssis&layout=compact)](https://github.com/IagoACAssis/)
 ### _Minhas Mídias Sociais_
