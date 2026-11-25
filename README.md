@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-escuro.svg">
-  <img alt="Iago de Assis, Analista de Sistemas e Desenvolvedor Full Stack" src="./assets/banner-claro.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-escuro-v2.svg">
+  <img alt="Iago de Assis, Analista de Sistemas e Desenvolvedor Full Stack" src="./assets/banner-claro-v2.svg" width="100%">
 </picture>
 
 ### Sobre mim
